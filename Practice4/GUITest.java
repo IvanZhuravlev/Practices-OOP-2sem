@@ -14,7 +14,7 @@ public class GUITest extends JFrame {
     private int milanScore = 0;
     private int realScore = 0;
     public GUITest() {
-        setTitle("Football match");
+        setTitle("Football");
         setSize(new Dimension(320, 300));
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
